@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JSON Demo</string>
+    <string name="nomes">Nome</string>
+    <string name="tipo">Tipo</string>
 </resources>
